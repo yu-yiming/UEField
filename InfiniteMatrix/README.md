@@ -6,27 +6,27 @@ In this game, you will be falling down through an endless tunnel. Here are some 
 
 #### Heart
 
-![Heart][https://github.com/yu-yiming/UEField/blob/main/InfiniteMatrix/Heart.jpg]
+![Heart](https://github.com/yu-yiming/UEField/blob/main/InfiniteMatrix/Heart.jpg)
 Good stuff! Collect it for better health (increase health by 1, max = 10).
 
 #### Coin
 
-![Coin][https://github.com/yu-yiming/UEField/blob/main/InfiniteMatrix/Coin.jpg]
+![Coin](https://github.com/yu-yiming/UEField/blob/main/InfiniteMatrix/Coin.jpg)
 Collect it for bonus points (increase score by 5).
 
 #### Projectile
 
-![Projectile][https://github.com/yu-yiming/UEField/blob/main/InfiniteMatrix/Projectile.jpg]
+![Projectile](https://github.com/yu-yiming/UEField/blob/main/InfiniteMatrix/Projectile.jpg)
 That's for ammo supply (increase projectile by 20, max = 100).
 
 #### Bomb
 
-![Bomb][https://github.com/yu-yiming/UEField/blob/main/InfiniteMatrix/Bomb.jpg]
+![Bomb](https://github.com/yu-yiming/UEField/blob/main/InfiniteMatrix/Bomb.jpg)
 Bombs are very helpful; they get rid of all troubles.
 
 ### Enemies
 
-![Enemy][https://github.com/yu-yiming/UEField/blob/main/InfiniteMatrix/Enemy.jpg]
+![Enemy](https://github.com/yu-yiming/UEField/blob/main/InfiniteMatrix/Enemy.jpg)
 Avoid them, or defeat them! They cannot move but they block your way.
 
 
